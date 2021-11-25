@@ -28,4 +28,4 @@ class rectangle{
 let area = new rectangle();
 area.setLength (10);
 area.setHeight (5);
-area.computeArea();
+area.computeArea(); 
