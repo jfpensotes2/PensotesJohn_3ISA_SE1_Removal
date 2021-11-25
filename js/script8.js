@@ -6,4 +6,4 @@ let offer = function() {
 };
 let ust = offer.bind(mySchool);
 
-ust();
+ust(); 
